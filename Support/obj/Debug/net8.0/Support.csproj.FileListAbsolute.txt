@@ -1,0 +1,14 @@
+/Users/no1/Igor/20241127/Support/bin/Debug/net8.0/Support
+/Users/no1/Igor/20241127/Support/bin/Debug/net8.0/Support.deps.json
+/Users/no1/Igor/20241127/Support/bin/Debug/net8.0/Support.runtimeconfig.json
+/Users/no1/Igor/20241127/Support/bin/Debug/net8.0/Support.dll
+/Users/no1/Igor/20241127/Support/bin/Debug/net8.0/Support.pdb
+/Users/no1/Igor/20241127/Support/obj/Debug/net8.0/Support.GeneratedMSBuildEditorConfig.editorconfig
+/Users/no1/Igor/20241127/Support/obj/Debug/net8.0/Support.AssemblyInfoInputs.cache
+/Users/no1/Igor/20241127/Support/obj/Debug/net8.0/Support.AssemblyInfo.cs
+/Users/no1/Igor/20241127/Support/obj/Debug/net8.0/Support.csproj.CoreCompileInputs.cache
+/Users/no1/Igor/20241127/Support/obj/Debug/net8.0/Support.dll
+/Users/no1/Igor/20241127/Support/obj/Debug/net8.0/refint/Support.dll
+/Users/no1/Igor/20241127/Support/obj/Debug/net8.0/Support.pdb
+/Users/no1/Igor/20241127/Support/obj/Debug/net8.0/Support.genruntimeconfig.cache
+/Users/no1/Igor/20241127/Support/obj/Debug/net8.0/ref/Support.dll
